@@ -20,10 +20,10 @@ An AI-powered interior design application built with Next.js and Google's Gemini
 
 2. Create environment file:
    ```bash
-   cp .env.local.example .env.local
+   cp .env.local.example .env
    ```
 
-3. Set your Gemini API key in `.env.local`:
+3. Set your Gemini API key in `.env`:
    ```
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
