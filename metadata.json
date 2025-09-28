@@ -1,0 +1,5 @@
+{
+  "name": "Interior AI Designer",
+  "description": "An application that uses AI to redesign interior spaces. Users can upload a photo of a room, provide a design prompt, and receive a newly generated image of the renovated space.",
+  "requestFramePermissions": []
+}
